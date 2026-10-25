@@ -8,7 +8,7 @@
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-red.svg)](LICENSE)
 ![Kotlin](https://img.shields.io/badge/Kotlin-100%237F52FF.svg?logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84.svg?logo=android&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-2026--07--28-000000.svg)
+![MCP](https://img.shields.io/badge/MCP-2026--10--25-000000.svg)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-Compatible-10A37F.svg?logo=openai&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4.svg)
 [![Release](https://img.shields.io/github/v/release/EuneiroByte/PocketTunnel?label=Download)](https://github.com/EuneiroByte/PocketTunnel/releases/latest)
