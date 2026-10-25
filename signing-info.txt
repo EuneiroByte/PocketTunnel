@@ -1,0 +1,10 @@
+KoTunnel release signing
+========================
+
+Keystore file: kotunnel.jks (in project root)
+Key alias:    kotunnel
+Store password: kotunnel2026
+Key password:   kotunnel2026
+DName:        CN=KoTunnel, OU=Dev, O=KoTunnel, L=Beijing, ST=Beijing, C=CN
+Algorithm:    RSA 2048
+Validity:     36500 days

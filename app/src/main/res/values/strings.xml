@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KoTunnel</string>
+    <string name="channel_name">Tunnel Service</string>
+    <string name="channel_desc">Keeps the MCP tunnel connected</string>
+    <string name="notification_title">KoTunnel running</string>
+    <string name="notification_text">Long-polling OpenAI control plane…</string>
+</resources>
