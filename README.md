@@ -206,4 +206,4 @@ Built for open collaboration between AI assistants and Lark / Feishu.
 
 如果这个项目帮到了你，欢迎请我喝杯奶茶~
 
-![微信赞赏码](wechat-donate.png)
+![微信赞赏码](assets/wechat-donate.png)
