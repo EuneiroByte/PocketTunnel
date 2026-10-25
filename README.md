@@ -202,6 +202,22 @@ Built for open collaboration between AI assistants and Lark / Feishu.
 
 ---
 
+## Acknowledgments & References
+
+This project is an **independent Kotlin rewrite**, not a fork of any existing project.
+
+- **[openai/tunnel-client](https://github.com/openai/tunnel-client)** — We implemented the
+  Secure MCP Tunnel wire protocol (`GET /v1/tunnels/{id}/poll` + `POST /v1/tunnels/{id}/response`)
+  from scratch in pure Kotlin, referencing their protocol specification only.
+- **[@larksuiteoapi/lark-mcp](https://www.npmjs.com/package/@larksuiteoapi/lark-mcp)** — Tool naming
+  conventions (`im_v1_message_create`, `docx_v1_document_raw_content`, etc.) align with the
+  official Lark/Feishu MCP tool schema for compatibility, but all API calls are implemented
+  directly via OkHttp against `open.feishu.cn` — no Lark SDK dependency.
+- **Jetpack Compose / Material 3** — UI built with Google's official Android toolkit.
+
+All application logic, Feishu adapters, tunnel engine, and UI design are original work.
+
+
 ## 赞助sponsor
 
 如果这个项目帮到了你，欢迎请我喝杯奶茶~
