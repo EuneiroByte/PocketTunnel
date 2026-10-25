@@ -199,3 +199,11 @@ Until a license is added, the project's licensing terms remain unspecified. Plea
 ---
 
 Built for open collaboration between AI assistants and Lark / Feishu.
+
+---
+
+## 赞助sponsor
+
+如果这个项目帮到了你，欢迎请我喝杯奶茶~
+
+![微信赞赏码](wechat-donate.png)
